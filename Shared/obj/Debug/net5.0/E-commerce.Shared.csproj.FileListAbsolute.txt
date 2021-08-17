@@ -1,0 +1,12 @@
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\bin\Debug\net5.0\E-commerce.Shared.deps.json
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\bin\Debug\net5.0\E-commerce.Shared.dll
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\bin\Debug\net5.0\ref\E-commerce.Shared.dll
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\bin\Debug\net5.0\E-commerce.Shared.pdb
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.csprojAssemblyReference.cache
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.AssemblyInfoInputs.cache
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.AssemblyInfo.cs
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.dll
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\ref\E-commerce.Shared.dll
+C:\Users\inqiyadpatwary\source\repos\E-commerce\E-commerce\Shared\obj\Debug\net5.0\E-commerce.Shared.pdb

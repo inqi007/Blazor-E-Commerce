@@ -1,0 +1,37 @@
+.item-container[b-bkunc908cg] {
+    display: flex;
+    padding: 6px; 
+}
+
+.item-image-wrapper[b-bkunc908cg] {
+    width: 150px;
+    text-align: center;
+}
+
+.item-image[b-bkunc908cg] {
+    max-height: 150px;
+    max-width: 150px;
+    padding: 6px;
+}
+
+.item-name[b-bkunc908cg] {
+    flex-grow: 1;
+    padding: 6px;
+}
+
+.item-price[b-bkunc908cg] {
+    font-weight: 600;
+    text-align: right;
+}
+
+.btn-delete[b-bkunc908cg] {
+    background: none;
+    border: none;
+    padding: 0px;
+    color: red;
+    font-size: 12px;
+}
+
+    .btn-delete:hover[b-bkunc908cg] {
+        text-decoration: underline;
+    }
